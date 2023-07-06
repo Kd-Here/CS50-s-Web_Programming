@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>CS50’s Web Programming with Python and JavaScript</h1>
+  <h1>CS50's Introduction to Artificial Intelligence with Python</h1>
 </p>
 
 ![World Biggest Teacher of Computer Science _ David J Malan _ Computer Science _ Nas Daily_Trim](https://user-images.githubusercontent.com/90677747/185794300-e2894fe0-7dea-44ba-9bb2-55b685f408bc.gif)
