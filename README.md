@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <h1>CS50's Introduction to Artificial Intelligence with Python</h1>
 </p>
 
@@ -6,16 +6,16 @@
 
 ## Index
 
-- HTML, CSS
-- Git
-- Python
-- Django
-- SQL, Models, and Migrations
-- JavaScript
-- User Interfaces
-- Testing, CI/CD
-- Scalability and Security
-
+- Week 0: Python
+- Week 1: Search
+- Week 2: Knowledge
+- Week 3: Uncertainty
+- Week 4: Optimization
+- Week 5: Learning
+- Week 6: Neural Networks
+- Week 7: Language
+- Week 8: Vision
+- Week 9: Conclusion
 ---
 
 ## Special Thanks
